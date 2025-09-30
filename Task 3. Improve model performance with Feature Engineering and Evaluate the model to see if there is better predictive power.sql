@@ -139,7 +139,14 @@ SELECT * EXCEPT(unique_session_id) FROM (
 ));
 
 
+
+
 #then when it completes,  run this query:
+
+
+
+
+
 
 #standardSQL
 SELECT
