@@ -26,7 +26,7 @@ GROUP BY fullvisitorid)
 USING (fullVisitorId)
 ;
 
-#then when it completes,  run this query:
+--run this query when above completed:
 
 SELECT
   roc_auc,
